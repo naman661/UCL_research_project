@@ -2,6 +2,10 @@
 
 ## To-Do List
 
-* [ ] Task 1 (Not Completed)
-* [ ] Task 2 (Not Completed)
+* [ ] Dataset (Not Completed)
+* [ ] Sentiment Dictionary/Scores (Not Completed)
+* [ ] Date wise sentiment (Not Completed)
+* [ ] LSTM
+* [ ] Tuning
+* [ ] Performance
 
