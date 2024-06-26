@@ -2,8 +2,8 @@
 
 ## To-Do List
 
-* [x] Dataset (Not Completed)
-* [ ] Sentiment Dictionary/Scores (Not Completed)
+* [x] Dataset (Completed)
+* [x] Sentiment Dictionary/Scores (Completed)
 * [ ] Date wise sentiment (Not Completed)
 * [ ] LSTM
 * [ ] Tuning
