@@ -12,3 +12,20 @@
     <label for="task2">Task 2</label> (Not Completed)
   </li>
   </ul>
+
+
+
+<script>
+  const radios = document.querySelectorAll('input[type="radio"]');
+
+  radios.forEach(radio => {
+    radio.addEventListener('change', function() {
+      const label = document.querySelector(`label[for="${this.id}"]`);
+      if (this.checked) {
+        label.classList.add('completed');
+      } else {
+        label.classList.remove('completed');
+      }
+    });
+  });
+</script>
