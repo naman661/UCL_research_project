@@ -1,0 +1,83 @@
+Short on Short --> 
+
+Accuracy: 50.14%  (robust_scaling )          // Not updated....
+Accuracy: 46.01% (robust_scaling)
+
+// Scaling is not affecting accuracy..
+ 
+Dictionary is destructive.
+
+Big on Big -->
+
+Accuracy: 70.34% (without dictionary) [log_scaling]          // Updated....
+Accuracy: 76.55% (with dictionary)  [log_scaling]
+
+(If guessed all Bullish then ) Accuracy: 76.55%
+(If guessed all Bearish then ) Accuracy: 23.45%
+
+
+// Scaling is not affecting accuracy..
+
+// ALSO UPDATE THE PERFORMANCE FILES....!!!
+
+// If all negetive weights multiplied by 100.. then
+Accuracy: 77.54%
+
+// If all negetive weights multiplied by 1000.. then
+Accuracy: 78.42%
+
+
+// If all negetive weights multiplied by 10000.. then
+Accuracy: 78.74%
+
+
+// If all negetive weights multiplied by 30000.. then
+Accuracy: 78.14%
+
+// If all negetive weights multiplied by 100000.. then
+Accuracy: 78.64%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// FINAL FILE 
+
+neg_10000_SCALED  (*10000)
+
+// Z Score scaling ->
+    Bearish Accuracy: 20.69%
+    Overall Accuracy: 78.08%
+
+// Robust Scaling -->
+    Bearish Accuracy: 22.09%
+    Overall Accuracy: 78.15%
+
+// No Scaling
+    Bearish Accuracy: 21.87%
+    Overall Accuracy: 78.28%
+
+// log scaling
+
+    Bearish Accuracy: 0.02%
+    Overall Accuracy: 76.55%
+
+// scling to range
+
+    Bearish Accuracy: 1.47%
+    Overall Accuracy: 76.19%
+
+// Z Score
+
+    Bearish Accuracy: 1.91%
+    Overall Accuracy: 76.00%
+
