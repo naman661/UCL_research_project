@@ -1,0 +1,2 @@
+Bearish Accuracy: 21.87%
+Overall Accuracy: 78.28%
