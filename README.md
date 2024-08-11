@@ -5,7 +5,7 @@
 * [x] Dataset (Completed)
 * [x] Sentiment Dictionary/Scores (Completed)
 * [x] Date wise sentiment (Completed)
-* [ ] LSTM
-* [ ] Tuning
-* [ ] Performance
+* [x] LSTM
+* [x] Tuning
+* [x] Performance
 
